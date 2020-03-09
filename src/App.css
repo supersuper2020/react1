@@ -28,6 +28,8 @@
   color: #61dafb;
 }
 
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +38,12 @@
     transform: rotate(360deg);
   }
 }
+
+/*========================*/
+.fixed_toolbar{border: solid 1px;background-color: rgb(208, 247, 186);
+  font-size:25px;
+}
+.but_tool{font-size:30px; color: rgb(92, 141, 205); border-radius: 10px;
+border: solid 1px; padding: 5px; margin:10px;}
+
+/*========================*/
