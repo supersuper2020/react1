@@ -40,10 +40,10 @@
 }
 
 /*========================*/
-.fixed_toolbar{border: solid 1px;background-color: rgb(247, 186, 229);
+.fixed_toolbar{border: solid 1px;background-color: rgb(190, 186, 247);
   font-size:25px;
 }
 .but_tool{font-size:30px; color: rgb(95, 133, 103); border-radius: 10px;
-border: solid 1px; padding: 5px; margin:10px;}
+border: solid 1px; padding: 5px; margin:15px;}
 
 /*========================*/
